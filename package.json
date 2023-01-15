@@ -1,0 +1,19 @@
+{
+  "name": "k8s-test",
+  "version": "1.0.0",
+  "description": "아무것도 없는 서버를 k8s를 통해 띄워보면서 쿠버네티스에 대해 이해하는것을 시도해봅니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flex-youngim/k8s-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flex-youngim/k8s-test/issues"
+  },
+  "homepage": "https://github.com/flex-youngim/k8s-test#readme"
+}
