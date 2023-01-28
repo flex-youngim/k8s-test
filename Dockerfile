@@ -7,6 +7,7 @@ WORKDIR /usr/src/app
 COPY package*.json ./
 
 RUN apk --no-cache add curl
+RUN apk --no-cache add htop
 RUN npm install
 
 # Bundle app source
